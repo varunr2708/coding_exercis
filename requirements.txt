@@ -1,0 +1,7 @@
+Flask==1.1.4
+Flask-Cors==3.0.10
+flasgger
+marshmallow
+apispec
+flask-restful
+decorator
